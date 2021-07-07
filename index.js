@@ -55,4 +55,16 @@ bot.on('message', msg => {
     }
 });
 
+bot.on('message', msg => {
+    if(msg.content === PREFIX + 'backupfile'){
+        msg.react('ใน E:/Earth/back up file Discord bot ครับ');
+    }
+});
+
+bot.on('message', msg => {
+    if(msg.content === PREFIX + 'aboutbot'){
+        msg.reply('ตอนนี้บอทออนไลน์ 24/7 ใน HeroKu ครับตอนอัปเดต command ใหม่กรุณาไป reset ระบบในเว็ป https://www.heroku.com ด้วยนะครับ โดยกดที่ เปิด/ปิด ใน Resources เเละดูการเริ่มต้นใหม่ของระบบใน More => VeiwLog ครับ');
+    }
+});
+
 bot.login(process.env.token);
