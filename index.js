@@ -63,7 +63,7 @@ bot.on('message', msg => {
 
 bot.on('message', msg => {
     if(msg.content === PREFIX + 'aboutbot'){
-        msg.reply('ตอนนี้บอทออนไลน์ 24/7 ใน HeroKu ครับตอนอัปเดต command ใหม่กรุณาไป reset ระบบในเว็ป https://www.heroku.com ด้วยนะครับ โดยกดที่ เปิด/ปิด ใน Resources เเละดูการเริ่มต้นใหม่ของระบบใน More => VeiwLog ครับ');
+        msg.reply('ตอนนี้บอทออนไลน์ 24/7 ใน HeroKu ครับตอนอัปเดต command ใหม่กรุณาไป ส่งไฟล์การเเก้ไขใน GitHud => commit => P อะไรสักอย่างลืม เเล้ว reset ระบบในเว็ป https://www.heroku.com ด้วยนะครับ โดยกดที่ เปิด/ปิด ใน Resources เเละดูการเริ่มต้นใหม่ของระบบใน More => VeiwLog ครับ');
     }
 });
 
