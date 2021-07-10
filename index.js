@@ -39,7 +39,7 @@ bot.on('message', msg =>{
 
 bot.on('message', msg => {
     if(msg.content === PREFIX + 'sat'){
-        msg.reply('Physics Sec 1 8.30 a.m. - 12 p.m. MeetingID: 271 639 7191 Passcode: vua9D7                                      Physics Sec 2 8.30 a.m. - 12 p.m. MeetingID: 727 535 6206 Passcode: teacherNP');
+        msg.reply('Physics Sec 1 8.30 a.m. - 12 p.m. MeetingID: 271 639 7191 Passcode: vua9D7                                     Physics Sec 2 8.30 a.m. - 12 p.m. MeetingID: 727 535 6206 Passcode: teacherNP');
     }
 });
 
