@@ -1,0 +1,4 @@
+ตอนนี้ version 1.1.0 // Date:7.7.64
+- ลง bot เป็น 24/7 บนเว็ป https://www.heroku.comd
+
+
