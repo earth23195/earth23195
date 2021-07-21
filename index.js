@@ -15,7 +15,7 @@ bot.on('message', msg => {
 
 bot.on('message', msg => {
     if(msg.content === PREFIX + 'mon'){
-        msg.reply('Digital literacy Sec 3   1 p.m. - 3 p.m.                                           MSLick: https://bit.ly/3yILWzR                                           Life Skills Sec 3   16 p.m. - 18.55 p.m.                 MeetingID: 941 6511 1044 Passcode: 656855');
+        msg.reply('Digital literacy Sec 3   1 p.m. - 3 p.m.                                           MSLink: https://bit.ly/3yILWzR                                           Life Skills Sec 3   16 p.m. - 18.55 p.m.                 MeetingID: 941 6511 1044 Passcode: 656855');
     }
 });
 
