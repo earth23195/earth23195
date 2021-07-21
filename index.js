@@ -15,13 +15,13 @@ bot.on('message', msg => {
 
 bot.on('message', msg => {
     if(msg.content === PREFIX + 'mon'){
-        msg.reply('Life Skills Sec 3   16 p.m. - 18.55 p.m.                 MeetingID: 941 6511 1044 Passcode: 656855                    Digital literacy Sec 3   1 p.m. - 3 p.m.                                           MSLick:https://bit.ly/3yILWzR');
+        msg.reply('Digital literacy Sec 3   1 p.m. - 3 p.m.                                           MSLick:https://bit.ly/3yILWzR                                           Life Skills Sec 3   16 p.m. - 18.55 p.m.                 MeetingID: 941 6511 1044 Passcode: 656855');
     }
 });
 
 bot.on('message', msg => {
     if(msg.content === PREFIX + 'wed'){
-        msg.reply('Calculus Sec 1&2 12.50 p.m. - 15.30 p.m. link: https://teams.microsoft.com/l/meetup-join/19:w7Im6xJqBbycd9hslHo0hgYlCMKfXqH8JdJ-A-oJE9g1@thread.tacv2/1625636907455?context=%7B%22Tid%22:%226dace1b9-a4db-41e8-adc1-a86cb033f78d%22,%22Oid%22:%22ef30ce27-2f94-4045-9db4-1282e9e05e39%22%7D');
+        msg.reply('Calculus Sec 1&2 12.50 p.m. - 15.30 p.m. link: อยู่ระหว่างหาลิ้ง*อัพวันพ.ที่ 28');
     }
 });
 
